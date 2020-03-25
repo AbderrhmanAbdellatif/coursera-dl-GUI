@@ -1,0 +1,21 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://www.coursera.org/learn/machine-learning/home/welcome"
+#   2) curl --cookie cookies.txt "https://www.coursera.org/learn/machine-learning/home/welcome"
+#   3) aria2c --load-cookies cookies.txt "https://www.coursera.org/learn/machine-learning/home/welcome"
+#
+.coursera.org	TRUE	/	FALSE	1585062646	__400v	03480c1b-e5cc-4e39-ff85-c0027203ca04
+.coursera.org	TRUE	/	FALSE	1585924848	CSRF3-Token	1585924848.H6MOxc8LFgcFjDG1
+.coursera.org	TRUE	/	FALSE	1616596848	__204u	3892281523-1585060848343
+.coursera.org	TRUE	/	FALSE	1616596849	__204r	https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-datascience%2Flecture%2FkIuf0%2Fwhat-is-data-science
+.coursera.org	TRUE	/	FALSE	1648134479	_ga	GA1.2.1473719027.1585060851
+.coursera.org	TRUE	/	FALSE	1585148879	_gid	GA1.2.116888372.1585060851
+.coursera.org	TRUE	/	FALSE	1592838481	_fbp	fb.1.1585060851574.1884554881
+www.coursera.org	FALSE	/	FALSE	1585064280	maId	{&quot;cid&quot;:&quot;59d3a0cc8fb07ec5493c9bdc76ed3d4b&quot;,&quot;sid&quot;:&quot;4b215d67-8e24-4961-9598-a33ef9b356d7&quot;,&quot;isSidSaved&quot;:true,&quot;sessionStart&quot;:&quot;2020-03-24T14:40:51.000Z&quot;}
+.coursera.org	TRUE	/	TRUE	1589380855	CAUTH	CioRSeI_RL7uoN4Ca9HaA6O3vvkN_PLJh2twzHafjudrk7Fh4Tq654rD_dbNsfWbgso-KCR570ka8VHITf815Q.ohbJp1xn4mw_TXbo9LVrvQ.XP2u0YZz9_BJZFHYhRsp22zejtXA9Pbfq1IeSHHk5NviQmpjdhyt54DdFdQuk1tLquv5-gWhy3v6HseQyHEVD5Lr6H3JnoIlkuJFWFPJ9wGMt4z9aw9WdenUVLqW4H4b3Qebn4rUVdoeWar7rNjv7QzoZxZS-9Vn27L4frQ4cNw_NcIJa74NGQSCJ6kXukB3
+.coursera.org	TRUE	/	FALSE	1615819827	_hjid	d06d9e6b-94d0-4cde-a742-94ac2992953c
+www.coursera.org	FALSE	/	FALSE	0	_hjIncludedInSample	1
+.coursera.org	TRUE	/	FALSE	1616598839	stc113717	tsa:1585060851884.1008426690.8014712.7266549012681809.:20200324153800|env:1%7C20200424144051%7C20200324153800%7C6%7C1030880:20210324150800|uid:1585060851883.169923436.8894863.113717.1480118075.:20210324150800|srchist:1030880%3A1%3A20200424144051:20210324150800
+www.coursera.org	FALSE	/	FALSE	1648134480	_tq_id.TV-63455409-1.39ed	eb6e681494843cbc.1585060851.0.1585062481..
+.coursera.org	TRUE	/	FALSE	1585064306	__400vt	1585062506039

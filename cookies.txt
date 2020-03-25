@@ -1,0 +1,21 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://www.coursera.org/learn/machine-learning/home/welcome"
+#   2) curl --cookie cookies.txt "https://www.coursera.org/learn/machine-learning/home/welcome"
+#   3) aria2c --load-cookies cookies.txt "https://www.coursera.org/learn/machine-learning/home/welcome"
+#
+.coursera.org	TRUE	/	FALSE	1585062646	
+.coursera.org	TRUE	/	FALSE	1585924848	
+.coursera.org	TRUE	/	FALSE	1616596848	
+.coursera.org	TRUE	/	FALSE	1616596849	
+.coursera.org	TRUE	/	FALSE	1648134479	
+.coursera.org	TRUE	/	FALSE	1585148879	
+.coursera.org	TRUE	/	FALSE	1592838481	
+www.coursera.org	FALSE	/	FALSE	1585064280	
+.coursera.org	TRUE	/	TRUE	1589380855	CAUTH	
+.coursera.org	TRUE	/	FALSE	1615819827	_hjid	
+www.coursera.org	FALSE	/	FALSE	0	_hjIncludedInSample	
+.coursera.org	TRUE	/	FALSE	1616598839	stc113717	
+www.coursera.org	FALSE	/	FALSE	1648134480	
+.coursera.org	TRUE	/	FALSE	1585064306	__400vt	1585062506039

@@ -1,4 +1,4 @@
-FROM python:3.6-slim
+FROM python:3.11.0b5-slim
 
 LABEL maintainer "https://github.com/coursera-dl/"
 
